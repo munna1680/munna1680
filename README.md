@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @munna1680.
-- 👀 I want to be good Softwate Developer.
+- 👀 I want to be a good Softwate Developer.
 - 🌱 I’m currently learning Java and doing projects with Java Swing.
 
 <!---
