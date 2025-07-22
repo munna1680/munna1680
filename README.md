@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Munna</h1>
 <h3 align="center">I am an Undergraduate Student of Daffodil International University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=munna1680&label=Profile%20views&color=0e75b6&style=flat" alt="munna1680" /> </p>
+<center><p align="left"> <img src="https://komarev.com/ghpvc/?username=munna1680&label=Profile%20views&color=0e75b6&style=flat" alt="munna1680" /> </p></center>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=munna1680" alt="munna1680" /></a> </p>
 
